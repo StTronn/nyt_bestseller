@@ -5,7 +5,6 @@ showcases current bestselling books in non-fiction and fiction categories by nyt
 
 ![nyt1](./nyt1.png)
 
-![nyt2](./nyt2.png)
 ### Run Locally
 
 `git clone https://github.com/StTronn/nyt_bestseller.git`
